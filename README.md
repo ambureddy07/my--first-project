@@ -1,2 +1,2 @@
 # my--first-project
-git and GitHub practice projects u
+git and GitHub practice projects
